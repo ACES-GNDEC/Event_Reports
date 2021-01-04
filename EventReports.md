@@ -1,6 +1,6 @@
 # Event_Reports
 
-[Brains Out](Event Report Brains Out.pdf)
+[Brains Out](https://github.com/ACES-GNDEC/EVENTS/blob/main/Event%20Report%20Brains%20Out.pdf)
 
 [Farewell 2020](https://drive.google.com/file/d/1kRjdzTxHmCYNE6ppldm-FXG3AZWfAT1P/view?usp=sharing)
 
