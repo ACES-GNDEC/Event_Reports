@@ -1,6 +1,6 @@
 # Event_Reports
 
-[Brains Out](https://drive.google.com/file/d/1MWFxIrQ8L1oPTE3UABe7dJE-ZrGh8g8f/view?usp=sharing)
+[Brains Out](Event Report Brains Out.pdf)
 
 [Farewell 2020](https://drive.google.com/file/d/1kRjdzTxHmCYNE6ppldm-FXG3AZWfAT1P/view?usp=sharing)
 
