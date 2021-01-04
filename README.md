@@ -13,3 +13,5 @@
 [Poster Making Competetion](https://drive.google.com/file/d/1UccA9fkluk22wABRnxTJ5dZ1ShdfnFkz/view?usp=sharing)
 
 [Squiz Your Mind](https://drive.google.com/file/d/1xAqreyj4SRiMwCVrmSz81N6PqfCO5Nz-/view?usp=sharing)
+
+[Teacher's Day](https://drive.google.com/file/d/12nWKMmx3fD3fsxwg6FQ4zImS49_NL2cQ/view?usp=sharing)
