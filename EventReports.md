@@ -18,4 +18,4 @@
 
 [Group Discussion](https://github.com/ACES-GNDEC/EVENTS/blob/main/Event%20Report%20Group%20Discussion.pdf)
 
-[Extempore]()
+[Extempore](EVENT_REPORT_EXTEMPORE.pdf)
