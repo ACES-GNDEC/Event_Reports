@@ -1,5 +1,7 @@
 # Event_Reports
 
+[Skillenzia](https://github.com/ACES-GNDEC/UPLOADS/blob/main/EVENT%20REPORT%20-%20Skillenzia%20(1).pdf)
+
 [Kala Purab](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Kala%20Purab.pdf)
 
 [FreeCAD-The designing Contest](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Event%20Repot%20-%20FreeCAD.pdf)
