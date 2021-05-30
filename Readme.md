@@ -1,5 +1,7 @@
 # Event_Reports
 
+[Durability of Concrete](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Event%20Report%20Durability%20of%20Concrete.pdf)
+
 [Skillenzia](https://github.com/ACES-GNDEC/UPLOADS/blob/main/EVENT%20REPORT%20-%20Skillenzia%20(1).pdf)
 
 [Kala Purab](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Kala%20Purab.pdf)
