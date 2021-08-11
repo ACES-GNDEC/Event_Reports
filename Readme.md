@@ -2,6 +2,14 @@
 
 [Durability of Concrete](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Event%20Report%20Durability%20of%20Concrete.pdf)
 
+[Technical Paper Presentation]()
+
+[Plot the Plot]()
+
+[Design Mania]()
+
+[Bridge Constructor]()
+
 [Skillenzia](https://github.com/ACES-GNDEC/UPLOADS/blob/main/EVENT%20REPORT%20-%20Skillenzia%20(1).pdf)
 
 [Kala Purab](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Kala%20Purab.pdf)
