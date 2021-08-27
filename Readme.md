@@ -1,5 +1,7 @@
 # Event_Reports
 
+[Ek Chatur](https://github.com/ACES-GNDEC/UPLOADS/blob/1b7bba5793cf3a025b3379bf8731f15b4a51d358/Event%20Report%20-%20Ek%20Chatur.pdf)
+
 [Durability of Concrete](https://github.com/ACES-GNDEC/UPLOADS/blob/main/Event%20Report%20Durability%20of%20Concrete.pdf)
 
 [Technical Paper Presentation]()
